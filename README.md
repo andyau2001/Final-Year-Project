@@ -1,6 +1,6 @@
-# new_app
+# Mobile Payment Application
 
-A new Flutter project.
+An mobile application created with flutter
 
 ## Getting Started
 
