@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648521779279",
+    "firebase_url": "https://mobile-payment-fyp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobile-payment-fyp",
+    "storage_bucket": "mobile-payment-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648521779279:android:1840ab0f52ea2f2786c23a",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648521779279-5i0d0515ei6obg080k4c1adhnp7vbeah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRzgeyL7kbiot7XgRH7Ly0VCcSiNhoWtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648521779279-5i0d0515ei6obg080k4c1adhnp7vbeah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
